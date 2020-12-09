@@ -1,7 +1,7 @@
 # 2d-unity-shooter-mobile-game
 Welcome to the 2d-unity-shooter-mobile-game wiki!
 
-## Wanna check the game preview? check this [video](https://youtu.be/BHgGim0jKHQ)
+## Wanna check the game? check this [video](https://youtu.be/BHgGim0jKHQ)
 
 ## Why did i cancel this game?
 actually i didn't cancel it but i remake it and i don't need this source code anymore
